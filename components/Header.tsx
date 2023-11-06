@@ -13,6 +13,7 @@ function Header() {
                     ....
                 */}
                 <DarkModeToggle />
+
                 {/* DarkmodeToggle */}
             </div>
         </nav>
