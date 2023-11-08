@@ -10,6 +10,9 @@ import UserAvatar from "./UserAvatar";
   
 
 function UserButton () {
+  // Session...
+
+  
   return (
     <DropdownMenu>
         <DropdownMenuTrigger>
